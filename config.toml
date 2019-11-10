@@ -109,11 +109,8 @@ disableHugoGeneratorInject = false
     name = "email"
     url  = "mailto:patrickarmengol@protonmail.com"
 
-
-
 [languages]
   [languages.en]
-    subtitle  = "cc"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC</a>'
 
@@ -122,7 +119,14 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "About"
     url        = "/about"
+    weight     = 10
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts"
+    weight     = 20
+  [[menu.main]]
+    identifier = "misc"
+    name       = "Misc"
+    url        = "misc"
+    weight     = 30
