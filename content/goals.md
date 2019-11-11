@@ -64,7 +64,7 @@ draft: false
 
 ## Method
 
-Not to seem like I'm having a midlife crisis at 26 or anything, but I feel like I've wasted a lot of time doing much of nothing important. I recently created a system for personal improvement that worked for me:
+Not to seem like I'm having a midlife crisis at 26 or anything, but I feel like I've wasted a lot of time doing much of nothing important. I recently started using a system for personal improvement that I found worked for me:
 
 1. List out your interests
 2. Determine why they interest you
