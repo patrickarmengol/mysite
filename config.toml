@@ -1,4 +1,4 @@
-baseURL = "https://patrickarmengol.com"
+baseURL = "/"
 title   = "Patrick Armengol"
 
 DefaultContentLanguage = "en"
@@ -118,15 +118,15 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "/about"
-    weight     = 10
+    url        = "about"
+    #weight     = 10
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts"
-    weight     = 20
+    #weight     = 20
   [[menu.main]]
     identifier = "misc"
     name       = "Misc"
     url        = "misc"
-    weight     = 30
+    #weight     = 30
