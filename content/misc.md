@@ -1,6 +1,5 @@
 ---
 title: "Misc"
-date: 2019-11-09T16:30:51Z
 draft: false
 ---
 
@@ -11,3 +10,13 @@ draft: false
 [Japanese](/japanese)
 
 [Tea](/tea)
+
+[Starcraft](/starcraft)
+
+[Malware](/malware)
+
+[Pentesting](/pentesting)
+
+[Data Science](/datascience)
+
+[Project Ideas](/project-ideas)

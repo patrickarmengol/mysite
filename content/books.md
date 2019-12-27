@@ -1,6 +1,5 @@
 ---
 title: "Books"
-date: 2019-11-09T16:32:51Z
 draft: false
 ---
 
@@ -25,6 +24,7 @@ draft: false
 - [Real-World Bug Hunting - Peter Yaworski](https://nostarch.com/bughunting)
 - [Black Hat Python - Justin Seitz](https://nostarch.com/blackhatpython)
 - [Attacking Network Protocols - James Forshaw](https://nostarch.com/networkprotocols)
+- [The Hacker Playbook - Peter Kim](https://securepla.net/hacker-playbook/)
 - [Serious Cryptography - Jean-Philippe Aumasson](https://nostarch.com/seriouscrypto)
 - [Game Hacking - Nick Cano](https://nostarch.com/gamehacking)
 - [PoC||GTFO - Manul Laphroaig](https://nostarch.com/gtfo)

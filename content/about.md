@@ -1,6 +1,5 @@
 ---
 title: "About"
-date: 2019-11-09T12:39:51Z
 draft: false
 ---
 
@@ -12,11 +11,9 @@ This is kind of a big leap for me as I've had close to no online presence, espec
 
 ## Who Am I?
 
-Patrick!
-
 ### Interests
 
-These are the things that keep me going (or at least keep me from watching anime and browsing reddit). I try to encorporate as many of them into my [monthly goals](/goals), but I always leave some out. I'll try to post about my ventures as I progress through them.
+These are the things that keep me going (or at least keep me from watching anime and browsing reddit). I try to incorporate as many of them into my [monthly goals](/goals), but I always leave some out. I'll try to post about my ventures as I progress through them.
 
 - AI / ML
 - Agriculture
@@ -43,13 +40,11 @@ These are the career skills I've built up through professional, academic, or per
   - Malware Data Science
   - Threat Hunting
   - Incident Response (achieved GCFA)
-  - EDR
+  - EDR (CrowdStrike, Carbon Black, Red Cloak)
   - Network Monitoring
   - Pentesting
-  - IoT
 - Programming
   - Python
-  - Lua
   - C
   - x86(-64)
 - Hardware
@@ -57,9 +52,9 @@ These are the career skills I've built up through professional, academic, or per
   - Verilog / VHDL
   - PCB Design
   - Hardware Reversing
-- I can solve a rubik's cube blindfolded, which I think is pretty cool...
+  - IoT
 
-If you have read this far and would like to contact me for a project or job interview, please reach out via [email](mailto:patrickarmengol@protonmail.com), [LinkedIn](https://www.linkedin.com/in/patrickarmengol/), or [Twitter](https://twitter.com/patrickarmengol).
+I'm on an a constant journey to improve my security knowledge through self study and work. My current job largely involves threat hunting, assisting in the development of a new EDR platform and machine learning detectors, and investigating alerts for multiple client environments as part of a managed service. More recently, I've been interested in exploring the applications of data science in malware analysis and threat intelligence development.
 
 ### Projects
 
@@ -75,3 +70,7 @@ I'll put these in the order I learned them.
 - Portuguese (like a 2 year-old)
 - Korean (paused at intermediate / TOPIK level 3)
 - Japanese (shooting for advanced / JLPT N1)
+
+## Contact
+
+If you have read this far and would like to reach out to me for some reason, please try [email](mailto:patrickarmengol@protonmail.com), [LinkedIn](https://www.linkedin.com/in/patrickarmengol/), or [Twitter](https://twitter.com/patrickarmengol).
