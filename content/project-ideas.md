@@ -3,15 +3,17 @@ title: "Project Ideas"
 draft: false
 ---
 
-- Atom extension or python script for defanging or parsing and refanging URLs and IPs in IoCs
-- Automate countermeasure creation from blog post IoCs; "blogtoyara"
+- python script for defanging or parsing and refanging URLs and IPs in IoCs
+- automate countermeasure creation from blog post IoCs; "ioc_to_sig.py"
+  - Loki has pulldowns for threat intel exchanges
+- contribute to one of these projects:
+  - [MITRE CAR](https://car.mitre.org/)
+  - [eqllib](https://github.com/endgameinc/eqllib)
+  - [Atomic Red Team](https://atomicredteam.io/)
+  - [Threat Hunter Playbook](https://github.com/hunters-forge/ThreatHunter-Playbook)
 - yara engine running free + my rules and GUI visualization
-- Threat hunting playbook definitions (incl. enumeration of normal, easy wins)
-- IR playbook definitions (incl. scoping questions, first steps)
-- Threat group profiler pulling from free online TI streams
-- Automate malware sample pulling from online trackers and basic analysis
+- automate malware sample pulling from online trackers and basic analysis
 - POC EDR GUI with focus on pivoting, visualization, and notetaking
-
-- Port BWAPI to python for use with pytorch
-- Go match reviewer with tree history diagram for variations; ability to share notes online
-- Go AR app integrated with Leela Zero; see featurecat/lizzie
+- port BWAPI to python for use with pytorch
+- go match reviewer with tree history diagram for variations; ability to share notes online
+- go AR app integrated with Leela Zero; see featurecat/lizzie

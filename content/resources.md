@@ -1,5 +1,5 @@
 ---
-title: "Misc"
+title: "Resources"
 draft: false
 ---
 
@@ -7,16 +7,18 @@ draft: false
 
 [Books](/books)
 
+[Malware](/malware)
+
+[Pentesting](/pentesting)
+
+[Security Blogs](/blogs)
+
+[Data Science](/datascience)
+
+[Project Ideas](/project-ideas)
+
 [Japanese](/japanese)
 
 [Tea](/tea)
 
 [Starcraft](/starcraft)
-
-[Malware](/malware)
-
-[Pentesting](/pentesting)
-
-[Data Science](/datascience)
-
-[Project Ideas](/project-ideas)

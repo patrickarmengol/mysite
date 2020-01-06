@@ -126,7 +126,7 @@ disableHugoGeneratorInject = false
     url        = "posts"
     #weight     = 20
   [[menu.main]]
-    identifier = "misc"
-    name       = "Misc"
-    url        = "misc"
+    identifier = "resources"
+    name       = "Resources"
+    url        = "resources"
     #weight     = 30

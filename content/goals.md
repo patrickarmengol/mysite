@@ -55,7 +55,7 @@ draft: false
 - create a starcraft 2 AI
 - start [Remembering The Kanji 3 - James W. Heisig](https://www.amazon.com/Remembering-Kanji-Characters-Upper-Level-Proficiency/dp/0824837029) to reach 2600 kanji
 - read [Mona Lisa Overdrive  -  William Gibson](https://www.goodreads.com/book/show/154091.Mona_Lisa_Overdrive)
-- 60x situps per day + gym PPL prog 6 days per week
+- 60x situps per day + gym PPL program 6 days per week
 - hiking once per week
 - figure out how quantum computers work
 
