@@ -37,7 +37,7 @@ I have compiled a list of security blogs below. For a period of about 3 weeks, I
 - [Security Affairs](https://securityaffairs.co/wordpress/)
 - [SentinelOne](https://www.sentinelone.com/blog/)
 - [Sophos naked security](https://nakedsecurity.sophos.com/)
-- [sucuri blog](https://blog.sucuri.net/)
+- [sucuri](https://blog.sucuri.net/)
 - [Talos](https://blog.talosintelligence.com/)
 - [TaoSecurity](https://taosecurity.blogspot.com/)
 - [threatpost](https://threatpost.com/)

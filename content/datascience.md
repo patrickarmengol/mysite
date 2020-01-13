@@ -9,13 +9,15 @@ draft: false
 - [deeplearning.ai's DL Courses](https://www.coursera.org/specializations/deep-learning) - tensorflow eww
 
 ## Books
-- [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/) - free online
-- [Hands-On Machine Learning With Scikit-Learn & TensorFlow - Aurélien Géron](https://github.com/ageron/handson-ml) - free online
+- [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Hands-On Machine Learning With Scikit-Learn & TensorFlow - Aurélien Géron](https://github.com/ageron/handson-ml)
 - [Book of R - Tilman M. Davies](https://nostarch.com/bookofr)
 - [Data Visualization with JavaScript - Stephen A. Thomas](https://nostarch.com/datavisualization)
+- [Python Machine Learning](https://www.packtpub.com/data/python-machine-learning-third-edition)
+
 - [Malware Data Science - Joshua Saxe with Hillary Sanders](https://nostarch.com/malwaredatascience)
-- [Introduction to Artificial Intelligence for Security Professionals - Cylance Data Science Team](https://github.com/cylance/IntroductionToMachineLearningForSecurityPros/blob/master/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf)
 - [Machine Learning & Security - Clarence Chio, David Freeman](https://www.amazon.com/Machine-Learning-Security-Protecting-Algorithms/dp/1491979909)
+- [Introduction to Artificial Intelligence for Security Professionals - Cylance Data Science Team](https://github.com/cylance/IntroductionToMachineLearningForSecurityPros/blob/master/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf)
 - [Mastering Machine Learning for Penetration Testing - Chiheb Chebbi](https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing)
 
 ## Lists
@@ -31,3 +33,10 @@ draft: false
 
 ## Podcasts
 - [DeepMind: The Podcast](https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast)
+- [twimlai](https://twimlai.com)
+- [Artificial Intelligence with Lex Fridman](https://lexfridman.com/ai/)
+
+## Other
+- [mccormickml](http://mccormickml.com/) - blog about ML stuff
+- [An Introduction to t-SNE with Python Example](https://towardsdatascience.com/an-introduction-to-t-sne-with-python-example-5a3a293108d1)
+- [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)

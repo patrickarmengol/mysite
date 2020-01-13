@@ -3,6 +3,8 @@ title: "Books"
 draft: false
 ---
 
+This is my reading list. As you will probably be able to tell, I'm a shill for *no starch press*. It's probably the cute art on the covers that got me hooked.
+
 ## Current/Upcoming Reads
 
 - [Practical Malware Analysis - Michael Sikorski and Andrew Honig](https://nostarch.com/malware)
@@ -39,3 +41,4 @@ draft: false
 
 - [Do Androids Dream of Electric Sheep? - Philip K. Dick](https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_)
 - [Hitchhiker's Guide to the Galaxy - Douglas Adams](https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy)
+- [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/)
