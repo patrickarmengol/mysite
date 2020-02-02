@@ -93,9 +93,9 @@ disableHugoGeneratorInject = false
     name = "github"
     url  = "https://github.com/patrickarmengol"
 
-  [[params.social]]
-    name = "gitlab"
-    url  = "https://gitlab.com/patrickarmengol"
+  # [[params.social]]
+  #   name = "gitlab"
+  #   url  = "https://gitlab.com/patrickarmengol"
 
   [[params.social]]
     name = "linkedin"
