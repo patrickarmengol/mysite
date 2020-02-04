@@ -4,4 +4,4 @@ github pages repo:
 https://github.com/patrickarmengol/patrickarmengol.github.io
 
 site url:
-https://patrickarmengol.github.io/
+https://patrickarmengol.com/
