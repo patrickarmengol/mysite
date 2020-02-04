@@ -1,0 +1,57 @@
+---
+title: "Security Blogs"
+date: 2020-02-04T19:10:00Z
+draft: true
+toc: false
+images:
+tags:
+  - security
+---
+
+I have compiled a list of security blogs below. For a period of about 3 weeks, I had tried to keep up with these blogs through an RSS feed reader. It was a futile effort and not something I would recommend to the average security person. I ended up spending a majority of my free time reading about criminals doing crime when I would have much rather been learning something new or making something cool. That is not to say that the blogs are useless; some of them have fantastic writeups, especially for people doing TI. Podcasts are the alternative that I have turned to and they keep me satiated. My favorites for general news and discussion are _Security Now_ and _Risky Business_.
+
+- [Akamai](https://blogs.akamai.com/)
+- [Anomali](https://www.anomali.com/blog)
+- [Black Hills](https://www.blackhillsinfosec.com/blog/)
+- [Bleeping Computer](https://www.bleepingcomputer.com/)
+- [Blueliv](https://www.blueliv.com/cyber-security-and-cyber-threat-intelligence-blog-blueliv/)
+- [CheckPoint Research](https://research.checkpoint.com/)
+- [contagio](https://contagiodump.blogspot.com/)
+- [Cylance ThreatVector](https://threatvector.cylance.com/en_us/home.html)
+- [Daniel Miessler](https://danielmiessler.com/blog/)
+- [Dark Reading](https://www.darkreading.com/)
+- [Fortinet Threat Research](https://www.fortinet.com/blog/threat-research.html)
+- [Fumik0](https://fumik0.com/)
+- [Graham Cluley](https://www.grahamcluley.com/)
+- [hasherezade's 1001 nights](https://hshrzd.wordpress.com/)
+- [Intezer](https://www.intezer.com/blog/)
+- [kaspersky securelist](https://securelist.com)
+- [Krebs on Security](https://krebsonsecurity.com/)
+- [Krabs on Security](https://krabsonsecurity.com/)
+- [Malware don't need coffee](https://malware.dontneedcoffee.com/blog/)
+- [Malwarebytes](https://blog.malwarebytes.com/)
+- [McAfee Labs](https://www.mcafee.com/blogs/mcafee-labs/)
+- [Morphisec](https://blog.morphisec.com/)
+- [packet storm](https://packetstormsecurity.com/news/)
+- [paloalto networks unit42](https://unit42.paloaltonetworks.com/)
+- [PhishLabs](https://info.phishlabs.com/blog)
+- [Positive Technologies](https://blog.ptsecurity.com/)
+- [radware](https://blog.radware.com/)
+- [Rapid7](https://blog.rapid7.com/)
+- [Schneier on Security](https://www.schneier.com/)
+- [Security Affairs](https://securityaffairs.co/wordpress/)
+- [SentinelOne](https://www.sentinelone.com/blog/)
+- [Sophos naked security](https://nakedsecurity.sophos.com/)
+- [sucuri](https://blog.sucuri.net/)
+- [Talos](https://blog.talosintelligence.com/)
+- [TaoSecurity](https://taosecurity.blogspot.com/)
+- [threatpost](https://threatpost.com/)
+- [TrendLabs Security Intelligence](https://blog.trendmicro.com/trendlabs-security-intelligence/)
+- [Troy Hunt](https://www.troyhunt.com/)
+- [Trustwave SpiderLabs](https://www.trustwave.com/en-us/company/about-us/spiderlabs/)
+- [Volexity](https://www.volexity.com/blog/)
+- [Webroot](https://www.webroot.com/blog/)
+- [welivesecurity](https://www.welivesecurity.com/)
+- [Yoroi](https://blog.yoroi.company/)
+- [Zimperium](https://blog.zimperium.com/)
+- [zscaler research](https://www.zscaler.com/blogs/research)
