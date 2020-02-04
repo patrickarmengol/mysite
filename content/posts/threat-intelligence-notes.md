@@ -140,7 +140,7 @@ The TI ecosystem seems a bit of a mess. There are a bunch of competing standards
 
 ### Formats
 
-| item | description |
+|  |  |
 | --- | --- |
 | [CAPEC](https://capec.mitre.org/) | dictionary and classification taxonomy of attacks |
 | [CybOX](http://cyboxproject.github.io/) | absorbed into STIX 2 |
@@ -157,7 +157,7 @@ The TI ecosystem seems a bit of a mess. There are a bunch of competing standards
 
 ### Platforms
 
-| item | description |
+|  |  |
 | --- | --- |
 | [MISP](https://www.misp-project.org/index.html) | open-source TI sharing platform |
 | [YETI](https://yeti-platform.github.io/) | open source TI organization platform |
@@ -169,7 +169,7 @@ The TI ecosystem seems a bit of a mess. There are a bunch of competing standards
 
 ### Reading
 
-| item | description |
+|  |  |
 | --- | --- |
 | [Intelligence-Driven Incident Response](https://www.amazon.com/_/dp/1491934948) | details the role of TI in IR |
 | [The Cuckoo's Egg - Clifford Stoll](https://en.m.wikipedia.org/wiki/The_Cuckoo%27s_Egg) | account of one of the earliest cases of cyber threat hunting |
