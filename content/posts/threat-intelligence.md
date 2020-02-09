@@ -1,5 +1,5 @@
 ---
-title: "Threat Intelligence Notes"
+title: "Threat Intelligence"
 date: 2020-02-02T20:22:02Z
 draft: false
 toc: false
@@ -19,11 +19,11 @@ Intelligence is high fidelity information that has been analyzed and can be used
 
 > (Cyber (Threat (Intelligence)))
 
-Threat Intelligence is intelligence pertaining to adversaries.
+_Threat Intelligence_ is _Intelligence_ pertaining to adversaries.
 
-Cyber Threat Intelligence is Threat Intelligence pertaining to the cyber domain.
+_Cyber Threat Intelligence_ is _Threat Intelligence_ pertaining to the cyber domain.
 
-CTI involves understanding adversary __capabilities__, __motivations__, and __goals__.
+CTI involves understanding cyber adversary __capabilities__, __motivations__, and __goals__.
 
 CTI finds usefulness in its application to intrusion detection and incident response.
 
@@ -50,12 +50,13 @@ TI comes usually comes as a product of the data collected in incident response i
 
 ## Indicators of Compromise
 
-IOCs are a form of TI. Types of IOCs include:
+IOCs are a form of TI output. Types of IOCs include:
 - IP addresses
 - domains
 - file names
 - file hashes
 - registry entries
+- patterns in network traffic
 
 
 ## Intelligence Process Models
@@ -64,44 +65,64 @@ Models are dumb, but apparently they can be useful for understanding some concep
 
 ### OODA
 
-__OODA__ is a model that was developed by a military strategist, John Boyd, to describe the decision-making process, particularly in reference to combat operations.
+_OODA_ is a model that was developed by a military strategist, John Boyd, to describe the decision-making process, particularly in reference to combat operations.
 
 The OODA loop:
-[__O__]bserve > [__O__]rient > [__D__]ecide > [__A__]ct <<
+
+> _[O]bserve_ > _[O]rient_ > _[D]ecide_ > _[A]ct_ <<
 
 An entity would have a competitive advantage if it is able to go through this cycle more quickly than its adversary.
 
 This model can be used to describe the incident response process in how information is gathered and used to take response actions.
 
-The __Observe__ phase refers to the collection of information.
+#### Observe
 
-The __Orient__ phase refers to the contextualization of collected information with respect to predispositions, experience, knowledge, and expectations.
+The _Observe_ phase refers to the collection of information.
 
-The __Decide__ phase refers to the selection of actions that are appropriate in response to the information.
+#### Orient
 
-The __Act__ phase refers to the execution of decided upon actions.
+The _Orient_ phase refers to the contextualization of collected information with respect to predispositions, experience, knowledge, and expectations.
+
+#### Decide
+
+The _Decide_ phase refers to the selection of actions that are appropriate in response to the information.
+
+#### Act
+
+The _Act_ phase refers to the execution of decided upon actions.
 
 
 ### Intelligence Cycle
 
-The __Intelligence Cycle__ is a model that describes the process of processing intelligence. (duh)
+The _Intelligence Cycle_ is a model that describes the process of processing intelligence. (duh)
 
 The Intelligence Cycle:
-Direction > Collection > Processing > Analysis > Dissemination > Feedback <<
 
-The __Direction__ phase refers to the determinization of the goal of the intelligence.
+> _Direction_ > _Collection_ > _Processing_ > _Analysis_ > _Dissemination_ > _Feedback_ <<
 
+#### Direction
 
-The __Collection__ phase refers to the gathering of the necessary information. The information should be sufficiently numerous and it should come from a variety of sources.
+The _Direction_ phase refers to the determinization of the goal of the intelligence that will be developed.
 
-The __Processing__ phase refers to the normalization, organization, translation, enrichment, filtering, prioritization, and presentation of the available information.
+#### Collection
 
-The __Analysis__ phase refers to the investigation performed on the information by a human. Intelligence is the outcome.
+The _Collection_ phase refers to the gathering of the necessary information. The information should be sufficiently numerous and it should come from a variety of sources.
 
-The __Dissemination__ phase refers to the sharing of the produced intelligence.
+#### Processing
 
-The __Feedback__ phase refers to the evaluation of the produced intelligence with respect to the goal.
+The _Processing_ phase refers to the normalization, organization, translation, enrichment, filtering, prioritization, and presentation of the available information.
 
+#### Analysis
+
+The _Analysis_ phase refers to the investigation performed on the information by a human. Intelligence is the outcome.
+
+#### Dissemination
+
+The _Dissemination_ phase refers to the sharing of the produced intelligence.
+
+#### Feedback
+
+The _Feedback_ phase refers to the evaluation of the produced intelligence with respect to the goal.
 
 ## Evaluating Intelligence
 
@@ -118,10 +139,17 @@ There exist levels of intelligence based on a gradient of abstraction.
 
 __Tactical Intelligence__ refers to low-level, volatile intelligence like IOCs.
 
-__Operational Intelligence__ refers to mid-level, semi-permanent intelligence like recent APT campaigns.
+__Operational Intelligence__ refers to mid-level, semi-permanent intelligence like recent exploit/tool releases and APT campaigns.
 
 __Strategic Intelligence__ refers to high-level, long lasting intelligence like attacker TTPs and adversary motivations.
 
+
+## Pyramid of Pain
+
+The _Pyramid of Pain_ model closely resembles the divisions layed out by intelligence levels. It additionally describes how difficult or 'painful' it is for the attackers to succeed when you are able to utilize the indicators effectively.
+
+![pyramid_of_pain](/static/threat-intelligence/pyramid_of_pain.png)
+*source: http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html*
 
 ## Confidence
 
@@ -132,11 +160,16 @@ I don't particularly like the scales used historically for describing confidence
 A simple descriptive 'Low->Medium->High' scale works in most cases. If there needs to be more granularity, a numeric '0-100' scale seems appropriate.
 
 
+## Deliverables
+
+todo
+
+
 ## Resources
 
 [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - a more comprehensive list of resources
 
-The TI ecosystem seems a bit of a mess. There are a bunch of competing standards. TI sources are usually behind some kind of paywall. There's a whole private industry behind this. Below are some of the resources I've used or looked into and would like to explore.
+The TI ecosystem seems a bit of a mess. There are a bunch of competing standards. TI sources are often behind some kind of paywall. There's a whole private industry behind this. Below are some of the resources I have used previously, am using, or have looked into and would like to explore further.
 
 ### Formats
 
