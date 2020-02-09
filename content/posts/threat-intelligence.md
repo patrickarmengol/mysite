@@ -148,7 +148,7 @@ __Strategic Intelligence__ refers to high-level, long lasting intelligence like 
 
 The _Pyramid of Pain_ model closely resembles the divisions layed out by intelligence levels. It additionally describes how difficult or 'painful' it is for the attackers to succeed when you are able to utilize the indicators effectively.
 
-![pyramid_of_pain](/static/threat-intelligence/pyramid_of_pain.png)
+![pyramid_of_pain](/img/threat-intelligence/pyramid_of_pain.png)
 *source: http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html*
 
 ## Confidence
