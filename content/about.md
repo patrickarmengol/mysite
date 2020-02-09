@@ -58,7 +58,8 @@ I'm on an a constant journey to improve my security knowledge through self study
 
 ### Projects
 
-None that I'd publicly admit to yet...
+[project blog posts](https://patrickarmengol.com/tags/project/)
+[my github repo](https://github.com/patrickarmengol)
 
 ### Languages
 
