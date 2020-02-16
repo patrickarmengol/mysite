@@ -1,7 +1,9 @@
 ---
-title: "Malware"
+title: "Blue"
 draft: false
 ---
+
+The following is a list of blue team resources that I have collected. It is mostly comprised of reverse engineering and malware analysis stuff as that is what this list started out as and they are the subjects I'm most interested in. For most of these resources, I have either used them personally, or have looked into them, validated their quality/functionality, and made sure they were reasonably current.
 
 ## Books
 - [Reverse Engineering for Beginners - Dennis Yurichev](https://beginners.re/)
@@ -62,6 +64,7 @@ draft: false
 ## Lists
 - [awesome-reversing](https://github.com/wtsxDev/reverse-engineering)
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
+- [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 - [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection)
 - [awesome-forensics](https://github.com/Cugu/awesome-forensics)
 - [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
