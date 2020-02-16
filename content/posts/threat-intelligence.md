@@ -12,11 +12,11 @@ tags:
 
 > NOTE: this post is a work in progress
 
-These are my notes on threat intelligence and incident response.  These notes are very general/broad and are meant as a reference for terminology, models, processes, and ideas. I'm not particularly happy with the organization of the sections in this post and am thinking of splitting it up.
+These are my notes on threat intelligence and incident response.  These notes are very general/broad and are meant as a reference for terminology, models, processes, and ideas. I'm not particularly happy with the organization of the sections in this post and am thinking of splitting it up into multiple posts.
 
 ## Understanding Intelligence
 
-_Intelligence_ is high fidelity information that has been analyzed and contextualized, and can be used to influence decision making.
+_Intelligence_ has many meanings. In the context of this post, it can be defined as high fidelity information that has been analyzed/contextualized, and can be used to influence decision making.
 
 ### Data vs Information vs Intelligence
 
@@ -103,30 +103,30 @@ Some factors that can determine the quality of intelligence include:
 
 ### Threat Attribution
 
-todo
-find paper by robert m lee
-maybe put this under deliverables
+- todo
+- find paper by robert m lee
+- maybe put this section under deliverables
 
 #### Adversary Admission
 
-taking credit for operations run
-israeli generals have done this
+- taking credit for operations run
+- israeli generals have done this
 
 #### Leaks
 
-snowden leaks
-shadowbrokers
+- snowden leaks
+- shadowbrokers
 
 #### Direct Access
 
-intelligence programs by intelligence agencies
+- intelligence programs by intelligence agencies
 
 #### Intrusion Analysis
 
-defensive counterintelligence
-analyze it and extract knowledge
-over time campaign analysis and activity groups
-over enough understanding over the intentions of the adversary, we get notion of who this might be
+- defensive counterintelligence
+- analyze it and extract knowledge
+- over time campaign analysis and activity groups
+- enough understanding over the intentions of the adversary, we get notion of who this might be
 
 
 ### Deliverables
@@ -146,7 +146,7 @@ The _intelligence cycle_ is a model that describes the process of intelligence d
 
 The Intelligence Cycle:
 
-> _Direction_ > _Collection_ > _Processing_ > _Analysis_ > _Dissemination_ > _Feedback_ :<<
+> _Direction_ > _Collection_ > _Processing_ > _Analysis_ > _Dissemination_ > _Feedback_ <<
 
 ##### Direction
 
@@ -178,7 +178,7 @@ _OODA_ is a model that was developed by a military strategist, John Boyd, to des
 
 The OODA loop:
 
-> _[O]bserve_ > _[O]rient_ > _[D]ecide_ > _[A]ct_ :<<
+> _[O]bserve_ > _[O]rient_ > _[D]ecide_ > _[A]ct_ <<
 
 An entity would have a competitive advantage if it is able to go through this cycle more quickly than its adversary.
 
@@ -316,7 +316,7 @@ In its current state, ATT&CK lists the following as adversary tactics:
 
 ![diamond_model](/img/threat-intelligence/diamond_model.png)
 
-The diamond model describes the interactions between adversary and victim. The original paper described it as "An _adversary_ deploys a _capability_ over some _infrastructure_ againsta a victim." Occurrences of this are called _events_. Linearly flowing events are grouped into _activity threads_, which can further be grouped into _activity groups_.
+The diamond model describes the interactions between adversary and victim. The original paper described it as "An _adversary_ deploys a _capability_ over some _infrastructure_ against a _victim_." Occurrences of this are called _events_. Linearly flowing events are grouped into _activity threads_, which can further be grouped into _activity groups_.
 
 
 ### Defense Models
@@ -335,7 +335,7 @@ The _Pyramid of Pain_ model describes how difficult or 'painful' it is for the a
 
 #### Incident Response Cycle
 
-> _Preperation_ > _Identification_ > _Containment_ > _Eradication_ > _Recovery_ > _Lessons Learned_ :<<
+> _Preperation_ > _Identification_ > _Containment_ > _Eradication_ > _Recovery_ > _Lessons Learned_ <<
 
 The incident response cycle model describes the major steps involved in responding to an intrusion.
 
