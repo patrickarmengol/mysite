@@ -3,11 +3,11 @@ title: "Resources"
 draft: false
 ---
 
-[Malware](/malware)
+[Blue](/blue)
 
-[Pentesting](/pentesting)
+[Red](/red)
 
-[Data Science](/datascience)
+[Data Science](/data-science)
 
 [Japanese](/japanese)
 
