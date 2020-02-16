@@ -13,7 +13,7 @@ This is kind of a big leap for me as I've had close to no online presence, espec
 
 ### Interests
 
-These are the things that keep me going (or at least keep me from watching anime and browsing reddit). I try to incorporate as many of them into my [monthly goals](/goals), but I always leave some out. I'll try to post about my ventures as I progress through them.
+These are the things that keep me going (or at least keep me from watching anime and browsing reddit). I try to incorporate as many of them into my [monthly goals](/tags/goals/), but I always leave some out. I'll try to post about my ventures as I progress through them.
 
 - AI / ML
 - Agriculture
@@ -39,14 +39,17 @@ These are the career skills I've built up through professional, academic, or per
   - Malware Reversing
   - Malware Data Science
   - Threat Hunting
-  - Incident Response (achieved GCFA)
+  - Incident Response
   - EDR (CrowdStrike, Carbon Black, Red Cloak)
   - Network Monitoring
   - Pentesting
-- Programming
+- Languages
   - Python
+  - Bash
+  - Powershell
   - C
-  - x86(-64)
+  - x86 Assembly
+  - SQL
 - Hardware
   - FPGA
   - Verilog / VHDL
@@ -58,7 +61,7 @@ I'm on an a constant journey to improve my security knowledge through self study
 
 ### Projects
 
-[project blog posts](https://patrickarmengol.com/tags/project/)
+[project blog posts](/tags/project/)
 [my github repo](https://github.com/patrickarmengol)
 
 ### Languages
@@ -74,4 +77,4 @@ I'll put these in the order I learned them.
 
 ## Contact
 
-If you have read this far and would like to reach out to me for some reason, please try [email](mailto:patrickarmengol@protonmail.com), [LinkedIn](https://www.linkedin.com/in/patrickarmengol/), or [Twitter](https://twitter.com/patrickarmengol).
+If you have read this far and would like to reach out to me for some reason, please try [email](mailto:patrickarmengol@pm.me), [LinkedIn](https://www.linkedin.com/in/patrickarmengol/), or [Twitter](https://twitter.com/patrickarmengol).
