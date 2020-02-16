@@ -40,9 +40,10 @@ These are the career skills I've built up through professional, academic, or per
   - Malware Data Science
   - Threat Hunting
   - Incident Response
-  - EDR (CrowdStrike, Carbon Black, Red Cloak)
+  - EDR
   - Network Monitoring
-  - Pentesting
+  - Network Pentesting
+  - Webapp Pentesting
 - Languages
   - Python
   - Bash
@@ -56,6 +57,7 @@ These are the career skills I've built up through professional, academic, or per
   - PCB Design
   - Hardware Reversing
   - IoT
+  - Wireless
 
 I'm on an a constant journey to improve my security knowledge through self study and work. My current job largely involves threat hunting, assisting in the development of a new EDR platform and machine learning detectors, and investigating alerts for multiple client environments as part of a managed service. More recently, I've been interested in exploring the applications of data science in malware analysis and threat intelligence development.
 
