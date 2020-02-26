@@ -200,13 +200,8 @@ todo
 - [Loki](https://github.com/Neo23x0/Loki) - IOC scanner
 
 ## Threat Intel
-- [MISP](https://github.com/MISP/MISP) - TI platform
-- [AlienVault OTX](https://otx.alienvault.com/) - TI sharing
-- [otx-misp](https://github.com/gcrahay/otx_misp) - imports OTX pulses to MISP instance
-- [CRITS](https://crits.github.io/) - idk
-- [spiderfoot](https://www.spiderfoot.net/) - commercial TI tool
-- [bearded avenger deploymentkit](https://github.com/csirtgadgets/bearded-avenger-deploymentkit) - CIF deployment
-- [list of intel feeds](https://github.com/certtools/intelmq-feeds-documentation) - old list
+
+todo - fill this with resources from TI post
 
 ## YARA
 - [YARA docs](https://yara.readthedocs.io/en/latest/) - yara docs
