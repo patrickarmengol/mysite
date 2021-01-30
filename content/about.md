@@ -27,7 +27,6 @@ These are the things that keep me occupied (or at least keep me from watching an
 - Tea
 - Travel
 
-
 ## Contact
 
 [email](mailto:patrickarmengol@pm.me)
