@@ -5,7 +5,13 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+
+# Remove existing
+printf "\033[0;32mDeleting contents of public...\033[0m\n"
+rm -r `ls -A public/ | grep -v "\.git\|CNAME"`
+
 # Build the project.
+printf "\033[0;32mBuilding with hugo...\033[0m\n"
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
