@@ -89,23 +89,107 @@ draft: false
 
 - [VulnHub](https://www.vulnhub.com/) - collection of vulnerable VMs
 
+
 ## Tools
 
-### Network
+### Recon
 
+#### OSINT
+- [google dorks](https://www.sans.org/security-resources/GoogleCheatSheet.pdf) - google dorks cheatsheet
+- [google hacking](https://www.exploit-db.com/google-hacking-database) - google dorks db
+- [shodan](https://www.shodan.io/) - search the internet
+- [censys](https://censys.io/domain?q=) - search the internet
+- [intelx.io](https://intelx.io/) - OSINT swiss army knife search engine
+- [spyse](https://spyse.com/) - OSINT search engine
+- [archive.org](https://archive.org/) - time travel
+- [waybackurls](https://github.com/tomnomnom/waybackurls) - time travel recon
+- github (secrets/apikeys)
+- [theHarvester](https://github.com/laramies/theHarvester) - OSINT recon framework
+- [recon-ng](http://recon-ng.com/) - OSINT recon framework [r1](https://warroom.securestate.com/recon-ng-tutorial/), [r2](https://bitbucket.org/LaNMaSteR53/recon-ng/wiki/Usage%20Guide)
+- [maltego](https://www.maltego.com/) - intel mapping [r1](https://medium.com/@raebaker/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
+- [crt.sh](https://crt.sh/) - ssl cert search
+- [NerdyData](https://www.nerdydata.com/) - source code search
+- [searchcode](https://searchcode.com/) - source code search
+- [crunchbase](https://www.crunchbase.com/) - business intel
+
+#### Email
+
+- [hunter.io](https://hunter.io/) - email enum for corps
+
+#### Domain
+
+- [domaintools whois](https://whois.domaintools.com/) - whois info and more
+- [dig](https://en.wikipedia.org/wiki/Dig_(command)) - domain queries
+- [dnsrecon](https://github.com/darkoperator/dnsrecon) - domain enum
+- [dnsenum](https://github.com/fwaeytens/dnsenum) - domain enum
+- [fierce](https://github.com/mschwager/fierce) - domain enum
+- [subbrute](https://github.com/TheRook/subbrute) - domain enum
+- [knock](https://github.com/guelfoweb/knock) - domain enum
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) - domain enum
+- [dirsearch](https://github.com/maurosoria/dirsearch) - domain enum
+
+#### Network
+
+- [ncat](https://nmap.org/ncat/) - network data read/write; a better netcat
 - [nmap](https://nmap.org/) - network mapping
-- [ncat](https://nmap.org/ncat/) - network data read/write; netcat but better
 - [masscan](https://github.com/robertdavidgraham/masscan) - internet-scale port scanner
 - [ZMap](https://zmap.io/) - collection of internet-scale recon tools
 
+#### Infrastructure
+
+- [gobuster](https://github.com/OJ/gobuster) - directory/file, domain, VHost enumeration
+- [lazyrecon](https://github.com/nahamsec/lazyrecon) - automates web recon
+- [Osmedeus](https://github.com/j3ssie/Osmedeus) - automates web recon and vulnscanning
+- [Burp Suite Spider](https://portswigger.net/burp) - spider
+- [hakrawler](https://github.com/hakluke/hakrawler) - crawler
+- [Lookyloo](https://lookyloo.circl.lu/scrape) - scraper
+- [netcraft](https://sitereport.netcraft.com/) - website fingerprinting
+- [whatweb](www.morningstarsecurity.com/research/whatweb) - commandline website fingerprinting
+- [BuiltWith](https://builtwith.com/) - website fingerprinting browser extension
+- [wappalyzer](https://www.wappalyzer.com/) - website fingerprinting browser extension
+- [FFuF](https://github.com/ffuf/ffuf) - web fuzzer
+- [Amass](https://github.com/OWASP/Amass) - attack surface discovery and mapping
+- [meg](https://github.com/tomnomnom/meg) - fetch a bunch of URLs nicely
+
+
+
 ### Web
 
-- [Burp Suite](https://portswigger.net/burp) - web proxy and other cool stuff
-- [sqlmap](http://sqlmap.org/) - automates most SQL injection
-- [gobuster](https://github.com/OJ/gobuster) - directory/file, DNS, VHost enumeration
-- [lazyrecon](https://github.com/nahamsec/lazyrecon) - automates web recon
-- [HTTPie](https://httpie.org/) - command line HTTP client; like curl & wget but better
+#### General
+
+- [Burp Suite](https://portswigger.net/burp) - collection of fantastic web hacking tools
+- [HTTPie](https://httpie.org/) - command line HTTP client; a better wget/curl
+- [curlie](https://curlie.io/) - command line HTTP client; a better HTTPie
+
+#### Proxies
+
+- [Burp Suite Proxy](https://portswigger.net/burp) - web proxy
+- [ZAP](https://owasp.org/www-project-zap/) - web proxy
 - [mitmproxy](https://mitmproxy.org/) - HTTPS proxy
+
+#### Sniffers
+
+- [Wireshark](https://www.wireshark.org/)
+- [tcpdump](https://www.tcpdump.org/)
+
+#### XSS
+
+#### CSRF
+
+#### SQLi
+
+- [sqlmap](http://sqlmap.org/) - automates most SQLi
+
+#### XMLi
+
+
+
+
+
+
+
+
+
 
 ### Binary
 

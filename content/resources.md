@@ -13,8 +13,4 @@ draft: false
 
 [Tea](/tea)
 
-[Starcraft](/starcraft)
-
 [Books](/books)
-
-[Project Ideas](/project-ideas)

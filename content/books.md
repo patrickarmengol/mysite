@@ -5,37 +5,30 @@ draft: false
 
 This is my reading list. As you will probably be able to tell, I'm a shill for *no starch press*. It's probably the cute art on the covers that got me hooked.
 
+---
+
 ## Current/Upcoming Reads
 
-- [Practical Malware Analysis - Michael Sikorski and Andrew Honig](https://nostarch.com/malware)
-- [A Guide to Japanese Grammar - Tae Kim](http://www.guidetojapanese.org/learn/grammar)
-- [Remembering The Kanji 1 - James W. Heisig](https://www.amazon.com/Remembering-Kanji-Complete-Japanese-Characters/dp/0824835921)
-- [Remembering The Kanji 3 - James W. Heisig](https://www.amazon.com/Remembering-Kanji-Characters-Upper-Level-Proficiency/dp/0824837029)
-- [Neuromancer - William Gibson](https://www.goodreads.com/book/show/888628.Neuromancer)
 - [Count Zero - William Gibson](https://www.goodreads.com/book/show/22200.Count_Zero)
 - [Mona Lisa Overdrive  -  William Gibson](https://www.goodreads.com/book/show/154091.Mona_Lisa_Overdrive)
-- [Malware Data Science - Joshua Saxe with Hillary Sanders](https://nostarch.com/malwaredatascience)
+
+---
 
 ## Backlog
 
 #### Security
 
 - [The Hardware Hacker - Andrew “bunnie” Huang](https://nostarch.com/hardwarehackerpaperback)
-- [Rootkits and Bootkits - Alex Matrosov, Eugene Rodionov, and Sergey Bratus](https://nostarch.com/rootkits)
-- [Practical Binary Analysis - Dennis Andriesse](https://nostarch.com/binaryanalysis)
-- [Real-World Bug Hunting - Peter Yaworski](https://nostarch.com/bughunting)
-- [Black Hat Python - Justin Seitz](https://nostarch.com/blackhatpython)
-- [Attacking Network Protocols - James Forshaw](https://nostarch.com/networkprotocols)
-- [The Hacker Playbook - Peter Kim](https://securepla.net/hacker-playbook/)
-- [Serious Cryptography - Jean-Philippe Aumasson](https://nostarch.com/seriouscrypto)
 - [Game Hacking - Nick Cano](https://nostarch.com/gamehacking)
 - [PoC||GTFO - Manul Laphroaig](https://nostarch.com/gtfo)
 
 #### Novels
 
 - [Snow Crash - Neal Stephenson](https://www.goodreads.com/book/show/40651883-snow-crash)
+- [Mona Lisa Overdrive  -  William Gibson](https://www.goodreads.com/book/show/154091.Mona_Lisa_Overdrive)
 - [Pattern Recognition - William Gibson](https://www.goodreads.com/book/show/22320.Pattern_Recognition)
 
+---
 
 ## Recommendations
 
