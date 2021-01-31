@@ -1,132 +1,66 @@
-baseURL = "/"
-title   = "Patrick Armengol"
+baseurl = "/"
+title = "Patrick Armengol"
+theme = "pulp"
+canonifyurls = true
+hasCJKLanguage = true
+# pygmentsCodefences = true
+# pygmentsUseClasses = true
+# googleAnalytics = "{your tracking code}"
 
-DefaultContentLanguage = "en"
-
-theme = "hello-friend-ng"
-
-PygmentsCodeFences = true
-PygmentsStyle = "monokai"
-
-rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-
-# googleAnalytics = ""
-# disqusShortname = ""
-
-archetypeDir = "archetypes"
-contentDir   = "content"
-dataDir      = "data"
-layoutDir    = "layouts"
-publishDir   = "public"
-
-buildDrafts  = false
-buildFuture  = false
-buildExpored = false
-canonifyURLs = true
-
-enableRobotsTXT = true
-enableGitInfo   = false
-enableEmoji     = true
-enableMissingTranslationPlaceholders = false
-disableRSS     = false
-disableSitemap = false
-disable404     = false
-disableHugoGeneratorInject = false
-
-[permalinks]
-  posts = "/posts/:year/:month/:title/"
-
-[author]
-  name = "Patrick Armengol"
-
-[blackfriday]
-  hrefTargetBlank = true
-
-[taxonomies]
-  tag      = "tags"
-  category = "categories"
+[markup.goldmark.renderer]
+    unsafe = true # Allow user HTML tags
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+    author = "Patrick Armengol"
+    avatar = "avatar.jpg"
+    # avatarDescription = "My avatar description"
+    favicon = "favicon.ico"
+    description = """
+        RTS Player • Weekend Hiker • Perpetual Learner • Tea Drinker
+    """
+    publicationYear = "2021"
+    # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
+    # singlePageDateFormat = "January 2, 2006"
+    # custom_css = ["/css/custom.css"]
+    # custom_js = ["/js/custom.js"]
 
-  # Metadata mostly used in document's head
-  description = "my cool site"
-  keywords = ""
-  images = [""]
+# Make sure setting a following option for search bar to work
+[outputs]
+    section = ["JSON", "HTML"]
+    term = ["JSON", "HTML"]
 
-  homeSubtitle = "RTS Player • Weekend Hiker • Perpetual Learner • Tea Drinker"
 
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = ""
+[[menu.main]]
+    identifier = "info"
+    # name = "Blog" #If display text link, cancel comment out
+    pre = "<i class='fa fa-info-circle fa-lg'></i>" #Choose your favorite font from Font Awesome
+    url = "about"
+    weight = 10
 
-  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
-  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  customCSS = []
-  customJS  = []
+[[menu.main]]
+    identifier = "blog"
+    # name = "Blog" #If display text link, cancel comment out
+    pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
+    url = "blog/"
+    weight = 20
 
-  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  justifyContent = false  # Set "text-align: justify" to .content.
+[[menu.main]]
+    identifier = "twitter"
+    # name = "Twitter"
+    pre = "<i class='fab fa-twitter fa-lg'></i>"
+    url = "https://twitter.com/patrickarmengol"
+    weight = 30
 
-  # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-  # Default theme "light" or "dark"
-  defaultTheme = "dark"
-  themeColor = "#252627"
-  # Colors for favicons
-  [params.favicon.color]
-    mask = "#252627"
-    msapplication = "#252627"
-    theme = "#252627"
+[[menu.main]]
+    identifier = "github"
+    # name = "GitHub"
+    pre = "<i class='fab fa-github fa-lg'></i>"
+    url = "https://github.com/patrickarmengol"
+    weight = 40
 
-  [params.logo]
-    logoText     = "cd ~"
-    logoHomeLink = "/"
-    # Set to a valid CSS color to change the cursor in the logo.
-    logoColor    = "#7d828a"
-
-  # Social icons
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/patrickarmengol"
-
-  # [[params.social]]
-  #   name = "gitlab"
-  #   url  = "https://gitlab.com/patrickarmengol"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/patrickarmengol/"
-
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/patrickarmengol"
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:patrickarmengol@pm.me"
-
-[languages]
-  [languages.en]
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC</a>'
-
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about"
-    #weight     = 10
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts"
-    #weight     = 20
-  [[menu.main]]
-    identifier = "resources"
-    name       = "Resources"
-    url        = "resources"
-    #weight     = 30
+[[menu.main]]
+    identifier = "email"
+    # name = "Email"
+    pre = "<i class='fa fa-envelope fa-lg'></i>"
+    url = "mailto:patrickarmengol@pm.me"
+    weight = 50
