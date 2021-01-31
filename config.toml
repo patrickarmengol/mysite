@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://patrickarmengol.com"
 title = "Patrick Armengol"
 theme = "pulp"
 canonifyurls = true
